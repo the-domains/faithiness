@@ -10,19 +10,18 @@ description: >-
   or science? Even mentioning that century-old scuffle is nauseating. Should we
   embrace these stories––why––how? It kicks off the topics I want to cover in
   this project: life, faith, biblical hermeneutics, theology, Jesus, the gospel.
-dateModified: '2016-08-19T15:58:24.673Z'
-datePublished: '2016-08-19T16:00:27.708Z'
+dateModified: '2016-08-19T16:01:13.393Z'
+datePublished: '2016-08-19T16:01:13.818Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-19-lets-kick-this-whole-thing-off-and-what-better-place-to-be.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: lets-kick-this-whole-thing-off-and-what-better-place-to-be/index.html
+_type: Blurb
 
 ---
 **Let's kick this whole thing off, and what better place to begin than "in the beginning". In Genesis, the foundations are laid and something elemental and irreducible is embedded the world----the forms and colors, the very spirit of what is given to us in life. I like to start here not just because it makes sense, but because it harbors so many of difficulties and beauties that run throughout the entire discussion of faith. What do we do with the sacred texts, especially when the seem to overlap with other texts, such as history or science? Even mentioning that century-old scuffle is nauseating. Should we embrace these stories----why----how? It kicks off the topics I want to cover in this project: life, faith, biblical hermeneutics, theology, Jesus, the gospel.**
