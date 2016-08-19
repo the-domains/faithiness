@@ -12,5 +12,9 @@ color:
     - '#0FD3D8'
 layout_spectrum: 0.3949179162736982
 name: faithiness
+navigation:
+  - name: Post 1
+    id: 147c7b93-e4ff-4292-8ec8-0ca6019ac9d8
+    type: content
 title: What
 description: A tagline is what
