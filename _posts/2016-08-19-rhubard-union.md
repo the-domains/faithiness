@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-19T16:00:40.015Z'
+datePublished: '2016-08-19T16:01:27.940Z'
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T15:56:52.491Z'
+dateModified: '2016-08-19T16:01:27.525Z'
 title: Rhubard Union
 publisher: {}
 description: >-
@@ -17,8 +17,8 @@ description: >-
   things we’ve been waiting for: share our thoughts, food, wine, and lives.
 inLanguage: null
 inNav: false
-starred: false
 sourcePath: _posts/2016-08-19-rhubard-union.md
+starred: false
 url: rhubard-union/index.html
 _type: Article
 
