@@ -1,0 +1,14 @@
+layout_spectrum: 0.3949179162736982
+typography_spectrum: 0.5272751357406378
+color:
+  brandStrength: 0.7408834560774267
+  lightness: 0.12570446077734232
+  saturation: 0.6091635962948203
+  rhythmicContrast: 0.21420465735718608
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: faithiness
