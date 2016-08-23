@@ -1,4 +1,3 @@
-layout_spectrum: 0.3949179162736982
 typography_spectrum: 0.5272751357406378
 color:
   brandStrength: 0.7408834560774267
@@ -6,9 +5,19 @@ color:
   saturation: 0.6091635962948203
   rhythmicContrast: 0.21420465735718608
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#396491'
+    - '#40B1BF'
+    - '#112948'
+    - '#9F89D2'
+    - '#0FD3D8'
+layout_spectrum: 0.3949179162736982
 name: faithiness
+navigation:
+  - name: Post 1
+    id: 147c7b93-e4ff-4292-8ec8-0ca6019ac9d8
+    type: content
+  - name: Rhubard Union
+    id: 5074a072-5a15-46c4-ac1e-2830ac3a3281
+    type: content
+title: What
+description: A tagline is what
