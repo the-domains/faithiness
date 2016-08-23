@@ -13,7 +13,7 @@ color:
 layout_spectrum: 0.3949179162736982
 name: faithiness
 navigation:
-  - name: Post 1
+  - name: post 1
     id: 147c7b93-e4ff-4292-8ec8-0ca6019ac9d8
     type: content
   - name: Rhubard Union
