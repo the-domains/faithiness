@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-19T16:01:27.940Z'
+datePublished: '2016-08-23T21:45:49.328Z'
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T16:01:27.525Z'
+dateModified: '2016-08-23T21:45:48.692Z'
 title: Rhubard Union
 publisher: {}
 description: >-
